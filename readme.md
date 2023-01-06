@@ -27,7 +27,7 @@
 </p>
 
 <a> 
-    <a href="https://github.com/alsiam"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=habibmahaasin&show_icons=true&count_private=true&theme=react&border_color=27A1DD&bg_color=0D1117&title_color=27A1DD&icon_color=27A1DD" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/alsiam"><img alt="Al Siam's Top Languages" src="https://github-readme-streak-stats.herokuapp.com?user=habibmahaasin&theme=github-dark&border_radius=5&fire=27A1DD&border=27A1DD&ring=27A1DD&currStreakLabel=27A1DD&dates=27A1DD&stroke=27A1DD" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/alsiam"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=habibmahaasin&show_icons=true&count_private=true&theme=react&border_color=27A1DD&bg_color=0D1117&title_color=27A1DD&icon_color=27A1DD" height="192px" width="47%"/></a>
+  <a href="https://github.com/alsiam"><img alt="Al Siam's Top Languages" src="https://github-readme-streak-stats.herokuapp.com?user=habibmahaasin&theme=github-dark&border_radius=5&fire=27A1DD&border=27A1DD&ring=27A1DD&currStreakLabel=27A1DD&dates=27A1DD&stroke=27A1DD" height="192px" width="47%"/></a>
   <br/>
 </a>
