@@ -20,11 +20,11 @@
 
 <br/>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/habibmahaasin">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=habibmahaasin&langs_count=8&layout=compact&theme=react&border_color=27A1DD&bg_color=0D1117&title_color=27A1DD&icon_color=27A1DD" alt="Mahaasin's GitHub streak"/>
   </a>
-</p>
+</p> -->
 
 <a> 
     <a href="https://github.com/alsiam"><img alt="Habib Mahaasin Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=habibmahaasin&show_icons=true&count_private=true&theme=react&border_color=27A1DD&bg_color=0D1117&title_color=27A1DD&icon_color=27A1DD" height="192px" width="47%"/></a>
