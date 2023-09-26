@@ -7,7 +7,7 @@
 <p align="center">
         <samp>
                 <br>
-                「 I'm <b>Habib Irfan Mahaasin</b> Software Engineer & Website Developer 」
+                「 Software Engineer & Website Developer with more than one year of working experience」
                 <br>
                 <br>
           <br><br>
