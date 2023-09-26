@@ -7,7 +7,7 @@
 <p align="center">
         <samp>
                 <br>
-                「 I'm <b>Habib Irfan Mahaasin</b> Junior Website Developer from Telkom University 」
+                「 I'm <b>Habib Irfan Mahaasin</b> Software Engineer & Website Developer 」
                 <br>
                 <br>
           <br><br>
